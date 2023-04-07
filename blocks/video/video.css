@@ -1,0 +1,6 @@
+.video {
+  display: flex;
+  gap: 50px;
+  flex-direction: column;
+  z-index: 1;
+}

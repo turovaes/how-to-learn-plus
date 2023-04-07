@@ -1,0 +1,5 @@
+.footer__columns_content {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}

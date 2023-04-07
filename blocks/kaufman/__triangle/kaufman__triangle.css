@@ -1,0 +1,24 @@
+.kaufman__triangle {
+  position: absolute;
+  right: -210px;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  border-bottom: 730px solid #2f80ed;
+  border-left: 365px solid transparent;
+  border-right: 365px solid transparent;
+
+}
+
+.kaufman__triangle::after, .kaufman__triangle::before {
+  content: " ";
+  z-index: -1;
+  position: absolute;
+  bottom: 0;
+  
+  
+} 
+
+.kaufman__triangle::before {
+  z-index: 1; 
+ }

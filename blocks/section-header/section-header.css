@@ -1,0 +1,9 @@
+.section-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  width: 60%;
+  margin: 0 auto;
+  z-index: 1;
+}
