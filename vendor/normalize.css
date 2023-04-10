@@ -14,12 +14,21 @@ html {
 }
 
 a {
-cursor: pointer;
+  cursor: pointer;
 }
+
+a:hover {
+  opacity: .7;
+  transition: ease-in-out;
+}
+
 p {
   margin: 0;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
 /* Sections
    ========================================================================== */
 

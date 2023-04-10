@@ -1,6 +1,8 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+
 @import url(../blocks/content/content.css);
 @import url(../blocks/content/_theme-gray/content_theme-gray.css);
-@import url(../blocks/description/description.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
@@ -66,5 +68,3 @@
 @import url(../blocks/khan/__quote/khan__quote.css);
 @import url(../blocks/khan/__title/khan__title.css);
 @import url(../blocks/rotation/rotation.css);
-
-
