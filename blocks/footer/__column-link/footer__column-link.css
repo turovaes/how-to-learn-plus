@@ -4,4 +4,10 @@
   font-weight: normal;
   color: white;
   text-decoration: none;
+  cursor: pointer;
+}
+
+.footer__column-link:hover {
+  opacity: .7;
+  transition: ease-in-out;
 }
